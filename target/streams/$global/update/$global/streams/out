@@ -1233,7 +1233,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.eclipse.jetty#jetty-http;8.1.16.v20140903!jetty-http.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016!javax.servlet.jar(orbit)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.eclipse.jetty#jetty-continuation;8.1.16.v20140903!jetty-continuation.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 117ms :: artifacts dl 4ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 134ms :: artifacts dl 4ms[0m
 [0m[[0mdebug[0m] [0m	report for jsanimation#jsanimation_sjs0.6_2.12;0.1-SNAPSHOT compile produced in /Users/glebreutov/scala/fractals/target/resolution-cache/reports/jsanimation-jsanimation_sjs0.6_2.12-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for jsanimation#jsanimation_sjs0.6_2.12;0.1-SNAPSHOT runtime produced in /Users/glebreutov/scala/fractals/target/resolution-cache/reports/jsanimation-jsanimation_sjs0.6_2.12-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for jsanimation#jsanimation_sjs0.6_2.12;0.1-SNAPSHOT test produced in /Users/glebreutov/scala/fractals/target/resolution-cache/reports/jsanimation-jsanimation_sjs0.6_2.12-test.xml[0m
@@ -1248,5 +1248,5 @@
 [0m[[0mdebug[0m] [0m	report for jsanimation#jsanimation_sjs0.6_2.12;0.1-SNAPSHOT pom produced in /Users/glebreutov/scala/fractals/target/resolution-cache/reports/jsanimation-jsanimation_sjs0.6_2.12-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for jsanimation#jsanimation_sjs0.6_2.12;0.1-SNAPSHOT scala-tool produced in /Users/glebreutov/scala/fractals/target/resolution-cache/reports/jsanimation-jsanimation_sjs0.6_2.12-scala-tool.xml[0m
 [0m[[0mdebug[0m] [0m	report for jsanimation#jsanimation_sjs0.6_2.12;0.1-SNAPSHOT phantom-js-jetty produced in /Users/glebreutov/scala/fractals/target/resolution-cache/reports/jsanimation-jsanimation_sjs0.6_2.12-phantom-js-jetty.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (117ms resolve - 4ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (134ms resolve - 4ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m

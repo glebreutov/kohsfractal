@@ -2,29 +2,34 @@
 [0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
 [0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	added: Set()[0m
-[0m[[0mdebug[0m] [0m[naha] 	modified: Set(/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set(/Users/glebreutov/scala/fractals/target/scala-2.12/classes/animation/Integration$.class, /Users/glebreutov/scala/fractals/target/scala-2.12/classes/animation/Animation$.class, /Users/glebreutov/scala/fractals/target/scala-2.12/classes/animation/SceneState.class, /Users/glebreutov/scala/fractals/target/scala-2.12/classes/animation/Vec.class, /Users/glebreutov/scala/fractals/target/scala-2.12/classes/animation/SceneState$.class, /Users/glebreutov/scala/fractals/target/scala-2.12/classes/animation/Vec$.class, /Users/glebreutov/scala/fractals/target/scala-2.12/classes/animation/Integration$$anonfun$drawMeStep$1$1.class, /Users/glebreutov/scala/fractals/target/scala-2.12/classes/animation/Integration.class, /Users/glebreutov/scala/fractals/target/scala-2.12/classes/animation/Animation.class)[0m
 [0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
-[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] [0m
 [0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
-[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set(/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala, /Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala, /Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala, /Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala)[0m
 [0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
-[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala)[0m
-[0m[[0minfo[0m] [0mCompiling 1 Scala source to /Users/glebreutov/scala/fractals/target/scala-2.12/classes...[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala, /Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala, /Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala, /Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala, /Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala, /Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala, /Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 4 sources: invalidated sources (4) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 4 Scala sources to /Users/glebreutov/scala/fractals/target/scala-2.12/classes...[0m
 [0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.15:component from component compiler for Scala 2.12.2[0m
 [0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.15:component from component compiler for Scala 2.12.2[0m
-[0m[[0mdebug[0m] [0mRunning cached compiler b23264c, interfacing (CompilerInterface) with Scala compiler version 2.12.2[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 264ebb53, interfacing (CompilerInterface) with Scala compiler version 2.12.2[0m
 [0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
 [0m[[0mdebug[0m] [0m	-Xplugin:/Users/glebreutov/.ivy2/cache/org.scala-js/scalajs-compiler_2.12.2/jars/scalajs-compiler_2.12.2-0.6.16.jar[0m
 [0m[[0mdebug[0m] [0m	-bootclasspath[0m
 [0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/classes:/Users/glebreutov/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar[0m
 [0m[[0mdebug[0m] [0m	-classpath[0m
 [0m[[0mdebug[0m] [0m	/Users/glebreutov/scala/fractals/target/scala-2.12/classes:/Users/glebreutov/.ivy2/cache/org.scala-js/scalajs-library_2.12/jars/scalajs-library_2.12-0.6.16.jar:/Users/glebreutov/.ivy2/cache/org.scala-js/scalajs-dom_sjs0.6_2.12/jars/scalajs-dom_sjs0.6_2.12-0.9.2.jar[0m
-[0m[[0mdebug[0m] [0mScala compilation took 0.369742641 s[0m
+[0m[[33mwarn[0m] [0m/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala:4: imported `Vec' is permanently hidden by definition of object Vec in package animation[0m
+[0m[[33mwarn[0m] [0mimport animation.Vec[0m
+[0m[[33mwarn[0m] [0m                 ^[0m
+[0m[[33mwarn[0m] [0mone warning found[0m
+[0m[[0mdebug[0m] [0mScala compilation took 0.854715164 s[0m
 [0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
 [0m[[0mdebug[0m] [0m[naha] 	Set()[0m
 [0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m

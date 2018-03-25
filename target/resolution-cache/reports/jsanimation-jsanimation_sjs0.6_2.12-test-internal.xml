@@ -7,7 +7,7 @@
 		revision="0.1-SNAPSHOT"
 		conf="test-internal"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool, phantom-js-jetty"
-		date="20180325150454"/>
+		date="20180325161240"/>
 	<dependencies>
 		<module organisation="com.lihaoyi" name="utest_sjs0.6_2.12">
 			<revision name="0.4.6" status="release" pubdate="20170504072745" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/lihaoyi/utest" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="4">
