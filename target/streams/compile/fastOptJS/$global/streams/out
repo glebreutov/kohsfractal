@@ -1,0 +1,16 @@
+[0m[[0minfo[0m] [0mFast optimizing /Users/glebreutov/scala/fractals/target/scala-2.12/jsanimation-fastopt.js[0m
+[0m[[0mdebug[0m] [0mLinker: Compute reachability: 28801 us[0m
+[0m[[0mdebug[0m] [0mLinker: Assemble LinkedClasses: 12305 us[0m
+[0m[[0mdebug[0m] [0mBasic Linking: 42826 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Batch mode: false[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Incremental part: 4297 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizing 2 methods.[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizer part: 986 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: 6465 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Compute reachability: 23181 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Assemble LinkedClasses: 2222 us[0m
+[0m[[0mdebug[0m] [0mRefiner: 25526 us[0m
+[0m[[0mdebug[0m] [0mEmitter: Class tree cache stats: reused: 475 -- invalidated: 1[0m
+[0m[[0mdebug[0m] [0mEmitter: Method tree cache stats: resued: 903 -- invalidated: 2[0m
+[0m[[0mdebug[0m] [0mEmitter (write output): 18747 us[0m
+[0m[[0mdebug[0m] [0mGlobal IR cache stats: reused: 7 -- invalidated: 2 -- trees read: 1[0m

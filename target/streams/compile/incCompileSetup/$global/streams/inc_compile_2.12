@@ -1,0 +1,531 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/glebreutov/scala/fractals/target/scala-2.12/classes
+compile options:
+1 items
+0 -> -Xplugin:/Users/glebreutov/.ivy2/cache/org.scala-js/scalajs-compiler_2.12.2/jars/scalajs-compiler_2.12.2-0.6.16.jar
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.2
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+9 items
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> /Users/glebreutov/scala/fractals/target/scala-2.12/classes/animation/Animation$.class
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> /Users/glebreutov/scala/fractals/target/scala-2.12/classes/animation/Animation.class
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> /Users/glebreutov/scala/fractals/target/scala-2.12/classes/animation/Integration$$anonfun$drawMeStep$1$1.class
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> /Users/glebreutov/scala/fractals/target/scala-2.12/classes/animation/Integration$.class
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> /Users/glebreutov/scala/fractals/target/scala-2.12/classes/animation/Integration.class
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> /Users/glebreutov/scala/fractals/target/scala-2.12/classes/animation/SceneState$.class
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> /Users/glebreutov/scala/fractals/target/scala-2.12/classes/animation/SceneState.class
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> /Users/glebreutov/scala/fractals/target/scala-2.12/classes/animation/Vec$.class
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> /Users/glebreutov/scala/fractals/target/scala-2.12/classes/animation/Vec.class
+binary dependencies:
+10 items
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> /Users/glebreutov/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> /Users/glebreutov/.ivy2/cache/org.scala-js/scalajs-dom_sjs0.6_2.12/jars/scalajs-dom_sjs0.6_2.12-0.9.2.jar
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> /Users/glebreutov/.ivy2/cache/org.scala-js/scalajs-library_2.12/jars/scalajs-library_2.12-0.6.16.jar
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> /Users/glebreutov/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> /Users/glebreutov/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> /Users/glebreutov/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+5 items
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> /Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> /Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> /Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> /Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> /Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+9 items
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> animation.Animation
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> animation.Animation$
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> animation.Integration
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> animation.Integration$
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> animation.Integration$$anonfun$drawMeStep$1$1
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> animation.SceneState
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> animation.SceneState$
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> animation.Vec
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> animation.Vec$
+used names:
+363 items
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> !=
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> %
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> &&
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> *
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> +
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> -
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> /
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> ::
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> :::
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> <init>
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> <repeated>
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> ==
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> >
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> A
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> Animation
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> Any
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> App
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> B
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> Boolean
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> CanBuildFrom
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> Coll
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> Double
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> Function1
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> GenTraversableOnce
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> IndexedSeq
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> Int
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> List
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> MatchError
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> Math
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> Nil
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> Nothing
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> Object
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> Predef
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> Range
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> RichInt
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> SceneState
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> Some
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> T1
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> T2
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> That
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> Tuple2
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> Vec
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> _1
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> _2
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> a
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> angle
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> angleForSide
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> animation
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> apply
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> c
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> canBuildFrom
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> center
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> circleRatio
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> collection
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> compl
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> cos
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> drop
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> dropRight
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> end
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> flatMap
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> frac1
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> fracN
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> frame
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> frameRelative
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> get
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> height
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> i
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> immutable
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> intWrapper
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> isEmpty
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> iter
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> java
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> lang
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> len
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> length
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> lengthCompare
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> list
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> long
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> map
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> medianLen
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> nextPoint
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> np
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> np0
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> np3
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> off
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> offI
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> p
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> p0
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> p1
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> p2
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> p25
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> p3
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> package
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> parts
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> pointOnLine
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> points
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> pow
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> pp
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> radAngle
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> rotate
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> scala
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> short
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> side
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> sideLen
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> sin
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> size
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> slice
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> sqrt
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> st
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> start
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> superThree
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> supportVectorLen
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> take
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> takeRight
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> toDouble
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> toList
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> toRadians
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> top
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> top1
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> tri
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> triSide
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> unapplySeq
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> unary_!
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> unchecked
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> units
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> until
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> vectors
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> w
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> width
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> x
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> x$16
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> x$17
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> x$18
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> x$19
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> x$20
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> x$21
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> xies
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> y
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> *
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> +
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> -
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> /
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> <init>
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> <repeated>
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> Animation
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> Any
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> Button
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> Canvas
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> CanvasRenderingContext2D
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> Document
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> Double
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> Dynamic
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> Element
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> Function0
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> Function1
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> HTMLElement
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> HTMLImageElement
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> Int
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> Integration
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> JSApp
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> KeyCode
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> List
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> Math
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> Node
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> Nothing
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> Object
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> Predef
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> SceneState
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> String
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> T0
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> U
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> Unit
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> Vec
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> Window
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> animation
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> appendChild
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> asInstanceOf
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> beginPath
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> body
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> buildScene
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> canvas
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> compl
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> createElement
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> ctx
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> document
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> dom
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> double2Double
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> drawMe2
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> drawMeStep
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> ext
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> fillRect
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> fillStyle_=
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> foreach
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> fromString
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> getContext
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> head
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> height
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> height_=
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> html
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> initGame
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> innerHeight
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> innerWidth
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> intValue
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> java
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> js
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> lang
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> lineTo
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> lineWidth_=
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> min
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> moveTo
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> next
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> org
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> origin
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> outerTriangleLen
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> p
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> package
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> points
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> println
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> raw
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> reset
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> scala
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> scalajs
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> setTimeout
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> sideLen
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> size
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> startOuter
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> startStart
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> startingPointCenter
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> stroke
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> strokeStyle_=
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> tail
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> toDouble
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> toInt
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> toRadians
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> width
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> width_=
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> window
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> x
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> y
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> %
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> &&
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> *
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> +
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> -
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> /
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> <init>
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> ==
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> A
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> AbstractFunction1
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> Any
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> AnyRef
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> Boolean
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> IndexOutOfBoundsException
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> Int
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> Iterator
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> None
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> Nothing
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> Object
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> Option
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> Predef
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> Product
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> ScalaRunTime
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> SceneState
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> Serializable
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> Some
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> Statics
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> String
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> T
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> T0
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> _root_
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> _toString
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> animation
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> asInstanceOf
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> eq
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> finalizeHash
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> frameCounter
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> isInstanceOf
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> maxAngle
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> maxCompl
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> mix
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> package
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> runtime
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> scala
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> toString
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> typedProductIterator
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> ||
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> &&
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> *
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> +
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> -
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> /
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> <init>
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> ==
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> A
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> Any
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> AnyRef
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> Boolean
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> Double
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> IndexOutOfBoundsException
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> Int
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> Iterator
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> Math
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> None
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> Nothing
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> Object
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> Option
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> Predef
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> Product
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> RichDouble
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> ScalaRunTime
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> Serializable
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> Some
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> Statics
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> String
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> T
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> T0
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> T1
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> T2
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> Tuple2
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> Vec
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> _root_
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> _toString
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> abs
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> angle
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> angleRad
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> animation
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> asInstanceOf
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> cos
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> doubleHash
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> doubleWrapper
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> eq
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> finalizeHash
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> i
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> isInstanceOf
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> java
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> lang
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> len
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> length
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> mix
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> origin
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> p1
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> package
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> penpd
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> pow
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> runtime
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> scala
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> sin
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> sqrt
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> step
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> to
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> toRadians
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> toString
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> typedProductIterator
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> unary_-
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> v1
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> v2
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> vd
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> x
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> x2
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> xy
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> y
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> y2
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> ||
+product stamps:
+9 items
+/Users/glebreutov/scala/fractals/target/scala-2.12/classes/animation/Animation$.class -> lastModified(1521981168000)
+/Users/glebreutov/scala/fractals/target/scala-2.12/classes/animation/Animation.class -> lastModified(1521981168000)
+/Users/glebreutov/scala/fractals/target/scala-2.12/classes/animation/Integration$$anonfun$drawMeStep$1$1.class -> lastModified(1521981564000)
+/Users/glebreutov/scala/fractals/target/scala-2.12/classes/animation/Integration$.class -> lastModified(1521981564000)
+/Users/glebreutov/scala/fractals/target/scala-2.12/classes/animation/Integration.class -> lastModified(1521981564000)
+/Users/glebreutov/scala/fractals/target/scala-2.12/classes/animation/SceneState$.class -> lastModified(1521982376000)
+/Users/glebreutov/scala/fractals/target/scala-2.12/classes/animation/SceneState.class -> lastModified(1521982376000)
+/Users/glebreutov/scala/fractals/target/scala-2.12/classes/animation/Vec$.class -> lastModified(1521981168000)
+/Users/glebreutov/scala/fractals/target/scala-2.12/classes/animation/Vec.class -> lastModified(1521981168000)
+source stamps:
+4 items
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> hash(fa0380b6ab594030ab518abcae09bedc120b6ca1)
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> hash(aede39f61ce580cd69ac9fc7dcce0cc1f132fa9d)
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> hash(1616b464388f01f920acc754803b6d7fc9bdc280)
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> hash(efc38c8fd1b0507a4e09c256af1a87f2f990b5e1)
+binary stamps:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1500701265000)
+/Users/glebreutov/.ivy2/cache/org.scala-js/scalajs-dom_sjs0.6_2.12/jars/scalajs-dom_sjs0.6_2.12-0.9.2.jar -> lastModified(1494091755000)
+/Users/glebreutov/.ivy2/cache/org.scala-js/scalajs-library_2.12/jars/scalajs-library_2.12-0.6.16.jar -> lastModified(1493378573000)
+/Users/glebreutov/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar -> lastModified(1492071552000)
+class names:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/glebreutov/.ivy2/cache/org.scala-js/scalajs-dom_sjs0.6_2.12/jars/scalajs-dom_sjs0.6_2.12-0.9.2.jar -> org.scalajs.dom.raw.WindowTimers
+/Users/glebreutov/.ivy2/cache/org.scala-js/scalajs-library_2.12/jars/scalajs-library_2.12-0.6.16.jar -> scala.scalajs.js.JSApp
+/Users/glebreutov/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar -> scala.runtime.AbstractFunction1
+internal apis:
+4 items
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwXtcB8AAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAjc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwCj9D33QABWZyYWMxc3EAfgAMBojVY3QABm5vdGlmeXNxAH4ADNcIjk50AAlBbmltYXRpb25zcQB+AAxQQN4ydAAPc3VwZXJUaHJlZUZyYW1lc3EAfgAMVIRKH3QABHdhaXRzcQB+AAwPx8oKdAANJGFzSW5zdGFuY2VPZnNxAH4ADPppg750AAtjaXJjbGVSYXRpb3NxAH4ADJOSn0R0AAZlcXVhbHNzcQB+AAyGAkztdAAMYXNJbnN0YW5jZU9mc3EAfgAM2zm0w3QADmV4ZWN1dGlvblN0YXJ0c3EAfgAMAOIKtHQAE3N0YXJ0aW5nUG9pbnRDZW50ZXJzcQB+AAxYZz9KdAAMc3luY2hyb25pemVkc3EAfgAML74SYnQADSRpc0luc3RhbmNlT2ZzcQB+AAykYzYYdAAEbWFpbnNxAH4ADKYX6110AApidWlsZFNjZW5lc3EAfgAMEUYAgHQACW5leHRQb2ludHNxAH4ADBOWwc10AAlub3RpZnlBbGxzcQB+AAwbGjiidAAGY2ZyYW1lc3EAfgAMNDZGpXQADGlzSW5zdGFuY2VPZnNxAH4ADABe1iB0AApzdXBlclRocmVlc3EAfgAMNROw5HQAAj09c3EAfgAMv2ylF3QABWNsb25lc3EAfgAMwjQ1pXQABWZyYWNOc3EAfgAM68aflnQABiRpbml0JHNxAH4ADI0Gpoh0AAh0b1N0cmluZ3NxAH4ADAc+cxB0AARhcmdzc3EAfgAMG6ICHXQAAiE9c3EAfgAMnblP6XQACGdldENsYXNzc3EAfgAM9FAG7XQADGFuZ2xlRm9yU2lkZXNxAH4ADIsA5SF0AAJuZXNxAH4ADBgcTxN0AAJlcXNxAH4ADNBWKD90AAtkZWxheWVkSW5pdHNxAH4ADK4HeHB0AAIjI3NxAH4ADPJOond0AAhmaW5hbGl6ZXNxAH4ADETSpYF0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AF14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABNhbmltYXRpb24uQW5pbWF0aW9udXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB3c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AF1MAAlpbmhlcml0ZWRxAH4AXUwAB3BhcmVudHNxAH4AXXhxAH4AfHNxAH4Ad3VxAH4AWAAAAABzcQB+AHd1cQB+AFgAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AF5xAH4AZ3VxAH4AaAAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AIZ4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ae3QAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB7c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCgc3EAfgBqAHEAfgApdXEAfgBtAAAAAHNxAH4Ak3QABFVuaXRxAH4AmXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AIZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AHB0AAVQbGFpbnEAfgBBc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCUWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgB7c3EAfgCTdAAFQXJyYXlxAH4AmXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCTdAAGU3RyaW5nc3EAfgCXc3EAfgCadXEAfgCdAAAAA3NxAH4An3QABGphdmFzcQB+AJ90AARsYW5ncQB+AKRzcQB+AHd1cQB+ALsAAAAEc3EAfgCTdAADQXBwcQB+AJlzcQB+AJN0AAtEZWxheWVkSW5pdHEAfgCZc3EAfgCTdAAGT2JqZWN0cQB+AL9zcQB+AJN0AANBbnlxAH4AmXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACWFuaW1hdGlvbnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYl0lmJR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA6L1VzZXJzL2dsZWJyZXV0b3Yvc2NhbGEvZnJhY3RhbHMvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFPoDgLarWUAwq1GKvK4JvtwSC2yh
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw4ejMFAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwsCzuVXQABm5vdGlmeXNxAH4ADIgTOQt0AAtJbnRlZ3JhdGlvbnNxAH4ADHJpQq10AAR3YWl0c3EAfgAMlnkSKnQADSRhc0luc3RhbmNlT2ZzcQB+AAzm55gXdAAGZXF1YWxzc3EAfgAMsJ9tonQADGFzSW5zdGFuY2VPZnNxAH4ADHcESoh0AAxzeW5jaHJvbml6ZWRzcQB+AAxyR2dvdAANJGlzSW5zdGFuY2VPZnNxAH4ADJY3z1V0AARtYWluc3EAfgAMJRcMRHQACW5vdGlmeUFsbHNxAH4ADHgfb/V0AAxpc0luc3RhbmNlT2ZzcQB+AAwWELJidAAIaW5pdEdhbWVzcQB+AAzUulBydAACPT1zcQB+AAywGloVdAAFY2xvbmVzcQB+AAx8ss9UdAAIdG9TdHJpbmdzcQB+AAyg5CFRdAACIT1zcQB+AAzerrBAdAAIZ2V0Q2xhc3NzcQB+AAwrYU71dAACbmVzcQB+AAzcKTgVdAACZXFzcQB+AAwbpkeYdAAWJGpzJGV4cG9ydGVkJG1ldGgkbWFpbnNxAH4ADMKlHUd0AAIjI3NxAH4ADKVUxTB0AAhmaW5hbGl6ZXNxAH4ADJ16aFt0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABVhbmltYXRpb24uSW50ZWdyYXRpb251cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ARUwACWluaGVyaXRlZHEAfgBFTAAHcGFyZW50c3EAfgBFeHEAfgBic3EAfgBddXEAfgBAAAAAAHNxAH4AXXVxAH4AQAAAAABzcQB+AF11cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGF0AAVKU0FwcHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAABHNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcQB+AHp0AAdzY2FsYWpzc3EAfgB6dAACanNzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ae3NxAH4AbnQABk9iamVjdHNxAH4AcnNxAH4AdXVxAH4AeAAAAANzcQB+AHp0AARqYXZhc3EAfgB6dAAEbGFuZ3EAfgCDc3EAfgBudAADQW55c3EAfgByc3EAfgB1dXEAfgB4AAAAAnNxAH4AenEAfgB9cQB+AIN1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAlhbmltYXRpb25zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWJdK6LLdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAOi9Vc2Vycy9nbGVicmV1dG92L3NjYWxhL2ZyYWN0YWxzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSu3jn2HOWAzWmsn8fczgzB8TL6nQ==
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw6abVnwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAhc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwHiuCnXQABm5vdGlmeXNxAH4ADCvT8M10AApTY2VuZVN0YXRlc3EAfgAMernIYXQADGZyYW1lQ291bnRlcnNxAH4ADLwaCId0AAR3YWl0c3EAfgAMAl63MHQADSRhc0luc3RhbmNlT2ZzcQB+AAxy06OSdAAMcHJvZHVjdEFyaXR5c3EAfgAMw9lcLHQABmVxdWFsc3NxAH4ADNkm03t0AAVhbmdsZXNxAH4ADKOvhdx0AAxhc0luc3RhbmNlT2ZzcQB+AAwuv+wrdAAMc3luY2hyb25pemVkc3EAfgAMB+bQpXQADSRpc0luc3RhbmNlT2ZzcQB+AAzcV6JOdAAIY2FuRXF1YWxzcQB+AAw1ra6KdAANcHJvZHVjdFByZWZpeHNxAH4ADH07E/h0AAlub3RpZnlBbGxzcQB+AAxJ9fM0dAAMaXNJbnN0YW5jZU9mc3EAfgAMIKnNrnQABjxpbml0PnNxAH4ADBmS0vB0AAI9PXNxAH4ADJulV4l0AAVjb21wbHNxAH4ADLRZxoZ0AAVjbG9uZXNxAH4ADGMI9Mh0AAYkaW5pdCRzcQB+AAzeLCs0dAAEbmV4dHNxAH4ADLfG3gx0AARjb3B5c3EAfgAMwaHDIHQACHRvU3RyaW5nc3EAfgAMRV5sUXQAAiE9c3EAfgAMP2yvj3QACGdldENsYXNzc3EAfgAM8bW5bnQADmNvcHkkZGVmYXVsdCQxc3EAfgAMwR2oAXQAAm5lc3EAfgAMAX5MvnQAAmVxc3EAfgAMbvI2sHQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADBC+lWN0AAIjI3NxAH4ADNywnex0AAhmaW5hbGl6ZXNxAH4ADM2/q6l0AA5wcm9kdWN0RWxlbWVudHNxAH4ADLcpRCZ0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABRhbmltYXRpb24uU2NlbmVTdGF0ZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBxc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFlMAAlpbmhlcml0ZWRxAH4AWUwAB3BhcmVudHNxAH4AWXhxAH4AdnNxAH4AcXVxAH4AVAAAAABzcQB+AHF1cQB+AFQAAAAAc3EAfgBxdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB1dAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB1c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCPc3EAfgCCcQB+AIVzcQB+AIZzcQB+AIl1cQB+AIwAAAADc3EAfgCOdAAEamF2YXNxAH4AjnQAAmlvcQB+AJNzcQB+AIJ0AAdQcm9kdWN0cQB+AIhzcQB+AIJ0AAZFcXVhbHNxAH4AiHNxAH4AgnQABk9iamVjdHNxAH4AhnNxAH4AiXVxAH4AjAAAAANzcQB+AI5xAH4AmXNxAH4AjnQABGxhbmdxAH4Ak3NxAH4AgnQAA0FueXEAfgCIdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAJYW5pbWF0aW9uc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFiXTgJE3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADovVXNlcnMvZ2xlYnJldXRvdi9zY2FsYS9mcmFjdGFscy90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUFha0ZDiPAfkgrMdUgDttf8m9woA=
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwNiIJEQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAsc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwAolGhHQABm5vdGlmeXNxAH4ADMU+AIZ0AAd1bmFwcGx5c3EAfgAM1wkNMHQAAXhzcQB+AAz8MkYadAAEd2FpdHNxAH4ADInH6g50AAEqc3EAfgAMaWMFYnQADmNvcHkkZGVmYXVsdCQyc3EAfgAMox6xaXQADSRhc0luc3RhbmNlT2ZzcQB+AAyFrqAsdAAMcHJvZHVjdEFyaXR5c3EAfgAMkbPXHHQABmVxdWFsc3NxAH4ADFwJbfl0AAF5c3EAfgAMMRYp3HQADGFzSW5zdGFuY2VPZnNxAH4ADFyKMMl0AAxzeW5jaHJvbml6ZWRzcQB+AAy+oHPRdAADVmVjc3EAfgAM3i7C/HQADSRpc0luc3RhbmNlT2ZzcQB+AAysVO5SdAAIY2FuRXF1YWxzcQB+AAz2KGordAANcHJvZHVjdFByZWZpeHNxAH4ADIPpxG10AAlub3RpZnlBbGxzcQB+AAx7YCZtdAABLXNxAH4ADD+6GZp0AAxpc0luc3RhbmNlT2ZzcQB+AAyZBRBMdAAKbm9ybVZlY3RvcnNxAH4ADO83lCx0AAZyb3RhdGVzcQB+AAyVNzMcdAAGPGluaXQ+c3EAfgAMlAB46HQABWFwcGx5c3EAfgAMF0XwU3QAAj09c3EAfgAMsGEYN3QABWNsb25lc3EAfgAMGKZw4nQABiRpbml0JHNxAH4ADDm0m5V0AARjb3B5c3EAfgAMnXb6F3QAC3BvaW50T25MaW5lc3EAfgAMhqMKNHQACHRvU3RyaW5nc3EAfgAMMBP4FXQABmxlbmd0aHNxAH4ADAfkqMR0AAErc3EAfgAMZbh+aHQAAiE9c3EAfgAMck557XQACGdldENsYXNzc3EAfgAMk2jlCXQADmNvcHkkZGVmYXVsdCQxc3EAfgAMhAJQM3QAA2Fic3NxAH4ADL6LT150AAJuZXNxAH4ADKNvZFZ0AAJlcXNxAH4ADKvxrjJ0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAxvOxQndAABL3NxAH4ADIYIsEV0AAVzbG9wZXNxAH4ADJqhBSt0AAIjI3NxAH4ADErKAe90AAhmaW5hbGl6ZXNxAH4ADCow7AZ0AA5wcm9kdWN0RWxlbWVudHNxAH4ADDjizEB0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AG94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AA1hbmltYXRpb24uVmVjdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AIdzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Ab0wACWluaGVyaXRlZHEAfgBvTAAHcGFyZW50c3EAfgBveHEAfgCMc3EAfgCHdXEAfgBqAAAAAHNxAH4Ah3VxAH4AagAAAABzcQB+AId1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AIt0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AItzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKVzcQB+AJhxAH4Am3NxAH4AnHNxAH4An3VxAH4AogAAAANzcQB+AKR0AARqYXZhc3EAfgCkdAACaW9xAH4AqXNxAH4AmHQAB1Byb2R1Y3RxAH4AnnNxAH4AmHQABkVxdWFsc3EAfgCec3EAfgCYdAAGT2JqZWN0c3EAfgCcc3EAfgCfdXEAfgCiAAAAA3NxAH4ApHEAfgCvc3EAfgCkdAAEbGFuZ3EAfgCpc3EAfgCYdAADQW55cQB+AJ5zcQB+AGxxAH4AeXVxAH4AegAAAABzcQB+AHwAdAANYW5pbWF0aW9uLlZlY3VxAH4AfwAAAAB+cQB+AIF0AAZNb2R1bGV1cQB+AIUAAAAAc3EAfgCHcQB+AI1zcQB+AIdzcQB+AI9zcQB+AId1cQB+AGoAAAAAc3EAfgCHdXEAfgBqAAAAAHNxAH4Ah3VxAH4AlgAAAARzcQB+AJhxAH4Am3NxAH4AnHNxAH4An3VxAH4AogAAAAJzcQB+AKRxAH4Ap3EAfgCpc3EAfgCYcQB+AJtzcQB+AJxzcQB+AJ91cQB+AKIAAAADc3EAfgCkcQB+AK9zcQB+AKR0AAJpb3EAfgCpc3EAfgCYcQB+ALdzcQB+AJxzcQB+AJ91cQB+AKIAAAADc3EAfgCkcQB+AK9zcQB+AKRxAH4AvXEAfgCpc3EAfgCYcQB+AL9xAH4A0nVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACWFuaW1hdGlvbnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYl0lmJR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA6L1VzZXJzL2dsZWJyZXV0b3Yvc2NhbGEvZnJhY3RhbHMvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFO/DjI/RsFB6TgnCVq8ah/L5kLXh
+external apis:
+0 items
+source infos:
+4 items
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Animation.scala -> 
+AAAAAgAAAQAAAAQAFGltcG9ydCBhbmltYXRpb24uVmVjAQAAADwBAAAAEQEAESAgICAgICAgICAgICAgICAgAQBJL1VzZXJzL2dsZWJyZXV0b3Yvc2NhbGEvZnJhY3RhbHMvc3JjL21haW4vc2NhbGEvYW5pbWF0aW9uL0FuaW1hdGlvbi5zY2FsYQEASS9Vc2Vycy9nbGVicmV1dG92L3NjYWxhL2ZyYWN0YWxzL3NyYy9tYWluL3NjYWxhL2FuaW1hdGlvbi9BbmltYXRpb24uc2NhbGEAVWltcG9ydGVkIGBWZWMnIGlzIHBlcm1hbmVudGx5IGhpZGRlbiBieSBkZWZpbml0aW9uIG9mIG9iamVjdCBWZWMgaW4gcGFja2FnZSBhbmltYXRpb24BAAABAAAABAAUaW1wb3J0IGFuaW1hdGlvbi5WZWMBAAAAPAEAAAARAQARICAgICAgICAgICAgICAgICABAEkvVXNlcnMvZ2xlYnJldXRvdi9zY2FsYS9mcmFjdGFscy9zcmMvbWFpbi9zY2FsYS9hbmltYXRpb24vQW5pbWF0aW9uLnNjYWxhAQBJL1VzZXJzL2dsZWJyZXV0b3Yvc2NhbGEvZnJhY3RhbHMvc3JjL21haW4vc2NhbGEvYW5pbWF0aW9uL0FuaW1hdGlvbi5zY2FsYQBUaW1wb3J0ZWQgYFZlYycgaXMgcGVybWFuZW50bHkgaGlkZGVuIGJ5IGRlZmluaXRpb24gb2YgY2xhc3MgVmVjIGluIHBhY2thZ2UgYW5pbWF0aW9uAQAAAAA=
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Integration.scala -> 
+AAAAAAAAAAA=
+/Users/glebreutov/scala/fractals/src/main/scala/animation/SceneState.scala -> 
+AAAAAAAAAAA=
+/Users/glebreutov/scala/fractals/src/main/scala/animation/Vec.scala -> 
+AAAAAAAAAAA=
+compilations:
+37 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYlzeIyV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9nbGVicmV1dG92L3NjYWxhL2ZyYWN0YWxzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYlzemet1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9nbGVicmV1dG92L3NjYWxhL2ZyYWN0YWxzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYlzfjlp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9nbGVicmV1dG92L3NjYWxhL2ZyYWN0YWxzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYlzh+5d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9nbGVicmV1dG92L3NjYWxhL2ZyYWN0YWxzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYlziuJp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9nbGVicmV1dG92L3NjYWxhL2ZyYWN0YWxzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYlzn0TB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9nbGVicmV1dG92L3NjYWxhL2ZyYWN0YWxzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYlzpkIp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9nbGVicmV1dG92L3NjYWxhL2ZyYWN0YWxzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYlzqszN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9nbGVicmV1dG92L3NjYWxhL2ZyYWN0YWxzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYlzs3ax1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9nbGVicmV1dG92L3NjYWxhL2ZyYWN0YWxzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYlzvFbh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9nbGVicmV1dG92L3NjYWxhL2ZyYWN0YWxzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYlz1IOB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9nbGVicmV1dG92L3NjYWxhL2ZyYWN0YWxzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYlz71q91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9nbGVicmV1dG92L3NjYWxhL2ZyYWN0YWxzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYl0PNC11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9nbGVicmV1dG92L3NjYWxhL2ZyYWN0YWxzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYl0P5xd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9nbGVicmV1dG92L3NjYWxhL2ZyYWN0YWxzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYl0QxZ51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9nbGVicmV1dG92L3NjYWxhL2ZyYWN0YWxzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYl0Q/Nl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9nbGVicmV1dG92L3NjYWxhL2ZyYWN0YWxzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYl0Rg651cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9nbGVicmV1dG92L3NjYWxhL2ZyYWN0YWxzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYl0Sr1F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9nbGVicmV1dG92L3NjYWxhL2ZyYWN0YWxzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYl0UKml1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9nbGVicmV1dG92L3NjYWxhL2ZyYWN0YWxzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYl0WTwp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9nbGVicmV1dG92L3NjYWxhL2ZyYWN0YWxzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYl0c6+h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9nbGVicmV1dG92L3NjYWxhL2ZyYWN0YWxzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYl0dnJ11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9nbGVicmV1dG92L3NjYWxhL2ZyYWN0YWxzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+22 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYl0eah51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9nbGVicmV1dG92L3NjYWxhL2ZyYWN0YWxzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+23 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYl0e6ht1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9nbGVicmV1dG92L3NjYWxhL2ZyYWN0YWxzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+24 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYl0lEVx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9nbGVicmV1dG92L3NjYWxhL2ZyYWN0YWxzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+25 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYl0lmJR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9nbGVicmV1dG92L3NjYWxhL2ZyYWN0YWxzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+26 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYl0mMUd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9nbGVicmV1dG92L3NjYWxhL2ZyYWN0YWxzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+27 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYl0rost1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9nbGVicmV1dG92L3NjYWxhL2ZyYWN0YWxzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+28 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYl0s+Yx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9nbGVicmV1dG92L3NjYWxhL2ZyYWN0YWxzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+29 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYl0tU8F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9nbGVicmV1dG92L3NjYWxhL2ZyYWN0YWxzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+30 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYl0wDcl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9nbGVicmV1dG92L3NjYWxhL2ZyYWN0YWxzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+31 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYl0wUd11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9nbGVicmV1dG92L3NjYWxhL2ZyYWN0YWxzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+32 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYl0yxaZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9nbGVicmV1dG92L3NjYWxhL2ZyYWN0YWxzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+33 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYl0zuRd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9nbGVicmV1dG92L3NjYWxhL2ZyYWN0YWxzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+34 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYl00Rg11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9nbGVicmV1dG92L3NjYWxhL2ZyYWN0YWxzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+35 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYl03lfZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9nbGVicmV1dG92L3NjYWxhL2ZyYWN0YWxzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+36 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYl04CRN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9nbGVicmV1dG92L3NjYWxhL2ZyYWN0YWxzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
