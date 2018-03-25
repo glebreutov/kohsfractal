@@ -3522,7 +3522,7 @@ $c_Lanimation_Animation$.prototype.buildScene__D__D__Lanimation_SceneState__sci_
   var this$5 = new $c_sci_$colon$colon().init___O__sci_List(p3, this$4);
   var this$6 = new $c_sci_$colon$colon().init___O__sci_List(p2, this$5);
   var tri = new $c_sci_$colon$colon().init___O__sci_List(p1, this$6);
-  return this.fracN__I__I__sci_List__sci_List(compl.compl__I(), compl.angle__I(), tri)
+  return this.fracN__I__I__sci_List__sci_List(compl.maxCompl$1, compl.angle__I(), tri)
 });
 $c_Lanimation_Animation$.prototype.fracN__I__I__sci_List__sci_List = (function(iter, angle, points) {
   _fracN: while (true) {
@@ -5688,9 +5688,6 @@ $c_Lanimation_SceneState.prototype.init___I = (function(frameCounter) {
   this.maxAngle$1 = 40;
   this.maxCompl$1 = 4;
   return this
-});
-$c_Lanimation_SceneState.prototype.compl__I = (function() {
-  return (($imul(((this.frameCounter$1 / 2) | 0), this.maxAngle$1) % this.maxCompl$1) | 0)
 });
 $c_Lanimation_SceneState.prototype.hashCode__I = (function() {
   var acc = (-889275714);
